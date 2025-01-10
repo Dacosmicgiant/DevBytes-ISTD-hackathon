@@ -20,3 +20,5 @@ Dev logs:
 - added gesture mode (11th January, 02:45)
 
 - added drowsiness indicator (11th January, 03:45)
+
+- Implemented AI assistant (11th January, 04:37)
