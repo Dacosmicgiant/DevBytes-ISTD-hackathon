@@ -16,3 +16,5 @@ Dev logs:
 - added strict mode to notify user if he has lost focus for too long (11th January, 01:15)
 
 - added distance warning (11th January, 02:00)
+
+- added gesture mode (11th January, 02:45)
