@@ -7,7 +7,7 @@ import threading
 import time
 import speech_recognition as sr
 from faster_whisper import WhisperModel
-import pytube
+# import pytube
 import queue
 import re
 import os
