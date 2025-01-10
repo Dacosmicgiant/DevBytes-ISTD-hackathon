@@ -18,3 +18,5 @@ Dev logs:
 - added distance warning (11th January, 02:00)
 
 - added gesture mode (11th January, 02:45)
+
+- added drowsiness indicator (11th January, 03:45)
