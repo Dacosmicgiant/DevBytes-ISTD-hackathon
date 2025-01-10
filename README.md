@@ -12,3 +12,5 @@ Dev logs:
 - said bye bye to web app (11th January, 00:55)
 
 - going with .exe approach (11th January, 01:00)
+
+- added strict mode to notify user if he has lost focus for too long (11th January, 01:15)
