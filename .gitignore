@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+#ignore webapp
+attention-learning 
+
+
 # Ignore virtual environment directories
 env/
 venv/
