@@ -1,0 +1,44 @@
+# Ignore Python bytecode and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+env/
+venv/
+.venv/
+
+# Ignore IDE and editor config files
+.vscode/
+.idea/
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore OpenCV generated files (e.g., frames from video capture)
+*.jpg
+*.png
+
+# Ignore log and output files
+*.log
+*.out
+
+# Ignore pip dependencies files (if generated)
+*.env
+
+# Ignore MediaPipe temporary or cache files
+mediapipe_cache/
+
+# Ignore video capture test files
+*.avi
+*.mp4
+
+# If you're using PyCharm
+*.iml
+out/
+
+# If you're using Jupyter Notebook for testing
+.ipynb_checkpoints/
+*.ipynb
