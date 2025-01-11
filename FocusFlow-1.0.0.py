@@ -346,8 +346,8 @@ class StudyHelperApp(ctk.CTk):
         super().__init__()
         
         # Configure window
-        self.title("Study Helper")
-        self.geometry("800x900")
+        self.title("FocusFlow")
+        self.geometry("300x900")
         
         # Configure grid layout
         self.grid_columnconfigure(0, weight=1)
@@ -552,6 +552,4 @@ class StudyHelperApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = StudyHelperApp()
-    app.mainloop()
-        
-        
+    app.mainloop() 
