@@ -122,6 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV community for image processing capabilities
 - Whisper by OpenAI for speech recognition
 - CustomTkinter for the modern UI components
+- ProgrammingHero YT for introducing us to mediapipe
 
 ---
 
