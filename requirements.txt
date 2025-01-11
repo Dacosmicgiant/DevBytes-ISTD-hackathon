@@ -1,7 +1,7 @@
-opencv-python==4.7.0.72
-mediapipe==0.10.0
-pyautogui==0.9.53
-tkinter==8.6.12
-speechrecognition==3.8.1
-faster-whisper==0.7.2
-queue==0.0.1
+opencv-python
+mediapipe
+pyautogui
+SpeechRecognition
+faster-whisper
+customtkinter
+CTkMessagebox

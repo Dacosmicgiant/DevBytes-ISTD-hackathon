@@ -24,3 +24,5 @@ Dev logs:
 - Implemented AI assistant (11th January, 04:37)
 
 - Time for a nap
+
+- Added styling using customtkinter (11th January, 06:22)

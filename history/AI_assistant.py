@@ -40,6 +40,8 @@ monitoring = False
 monitor_thread = None
 close_popup_shown = False
 
+
+
 # Control mode
 use_gestures = False
 
